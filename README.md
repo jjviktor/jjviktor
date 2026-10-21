@@ -1,7 +1,5 @@
 ## Olá! Eu sou o João Viktor
 
-- 🔭 Hoje trabalho em uma indústria Têxtil
-- 🌱 Estudando: JavaScript, HTML, CSS
 - 😄 Ele/Dele
 
 <div align="center">
